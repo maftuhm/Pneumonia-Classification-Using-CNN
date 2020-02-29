@@ -6,7 +6,7 @@ Dataset from [https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia](htt
 
 ## Layer Structure
 
-'''Layer (type)                 Output Shape              Param #   
+```Layer (type)                 Output Shape              Param #   
 =================================================================
 conv2d (Conv2D)              (None, 160, 160, 16)      160       
 _________________________________________________________________
@@ -68,7 +68,7 @@ dense_3 (Dense)              (None, 1)                 65
 =================================================================
 Total params: 3,493,697
 Trainable params: 3,492,737
-Non-trainable params: 960'''
+Non-trainable params: 960```
 
 ## Contacts
 
