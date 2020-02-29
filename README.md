@@ -4,10 +4,9 @@ If this repository helps you in anyway, show your love :heart: by putting a :sta
 
 Dataset from [https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
-## Layer Structure
+## Evaluate
 
 ```
-Evaluate
 Test loss: 0.08037932310307973
 Test accuracy: 0.9777257
 ```
